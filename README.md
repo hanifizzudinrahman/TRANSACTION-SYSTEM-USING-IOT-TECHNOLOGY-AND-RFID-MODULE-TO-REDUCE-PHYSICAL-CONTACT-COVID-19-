@@ -7,6 +7,7 @@ Video: https://www.youtube.com/watch?v=onU3XBitQxs&amp;t=15s
 Made By: 
 - PITALOKA FORTUNA DEWI SETYORINI - Website 
 - HANIF IZZUDIN RAHMAN - Hardware  
+
 Purpose:  
 - Creating a cashless system for disbursement of social assistance using RFID technology 
 - Create a website server to display data 
